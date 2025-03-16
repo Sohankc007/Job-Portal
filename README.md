@@ -5,8 +5,7 @@ Job Portal is a MERN Stack based web app which helps in streamlining the flow of
 - Install Node JS, MYsql in the machine.
 - - Install dependencies in directory: `npm install`
 - Start express server: `npm start`
-- Backend server will start .
-- Frontend server will start on port 3000.
+- Server will start on port 3000.
 - Now open `http://localhost:3000/` and proceed creating jobs and applications by signing up in required categories.
 
 ## Dependencies:
