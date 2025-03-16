@@ -10,7 +10,7 @@ Job Portal is a MERN Stack based web app which helps in streamlining the flow of
 
 ## Dependencies:
 
-ependencies": {
+dependencies": {
         "bcrypt": "^5.1.1",
         "cookie-parser": "^1.4.7",
         "dotenv": "^16.4.5",
